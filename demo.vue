@@ -851,6 +851,7 @@ export default {
             dictType: "7000006"
         });
         this.changeTableColumns();
+        this.changeTableColumns();
     }
 }
 </script>
