@@ -1,6 +1,6 @@
 <!--
 by: xldai 2017/07 2018/01/02
-name: 学期维护
+name: 开课管理-教学周期管理-学期维护
 nodes:		
 -->
 <template>
