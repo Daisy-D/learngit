@@ -715,7 +715,7 @@ export default {
         },
         /**
         * 单个删除 
-        * 单个删除 
+        * 单个删除bbs
         * @param id {String}
         */
         dellAlert(id) {
