@@ -715,7 +715,7 @@ export default {
         },
         /**
         * 单个删除 
-        * 单个删除 aaa
+        * 我是adev
         * @param id {String}
         */
         dellAlert(id) {
